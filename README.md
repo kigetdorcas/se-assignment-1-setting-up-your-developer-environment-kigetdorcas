@@ -87,6 +87,9 @@ Use the following commands to stage your changes (tell Git which files to track)
 git add .
 # Commit the staged changes with a commit message
 git commit -m "Initial commit"
+![alt text](image.png)
+
+
 
 
 
@@ -102,9 +105,11 @@ git commit -m "Initial commit"
 1)Download Python Installer:
 Visit the official Python website http://wwww.python.org  and download the latest version of Python.
 2) Run the Installer:Run the downloaded .exe file.
-3)Verify Installation:After installation, open a terminal or command prompt and type python --version  # or python3 --version on some systems
+3)Verify Installation:After installation, open a terminal or command prompt and type python --version  # or python3 --version on some systemshttps://1drv.ms/i/c/e9daf28eee5d063b/ESVQVOh-rZ1KsTzd0p_OnlkB-PYknvigRgsjMPW5e_q1NA?e=A88PPtg
 
-set up a virtual environment (recommended), installed packages using pip, and optionally set up an IDE. This setup provides you with a powerful environment to develop Python applications efficiently. Adjust the steps according to your operating system and preferences to suit your development needs.
+
+set up a virtual environment (recommended), installed packages using pip, and optionally set up an IDE. This setup provides you with a powerful environment to develop Python applications efficiently. Adjust the steps according to your operating system and preferences to suit your development needs.https://1drv.ms/i/c/e9daf28eee5d063b/ES0n-84CUytMr61dKe56ZFkBoZDWdVn0koMw_nivZD-5HA?e=qZEOvN
+
 
 
 
@@ -118,10 +123,6 @@ set up a virtual environment (recommended), installed packages using pip, and op
    verfy installation:pip --version to confirm the version of pip that you have.
 
 
-
-
-
-
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 By following these steps, you'll successfully install MySQL on your system and be ready to start using it for database management and development.
@@ -132,11 +133,15 @@ By following these steps, you'll successfully install MySQL on your system and b
 5)Configure MySQL Server:Configure the MySQL Server installation by setting the root password and other options as needed.
 6)Execute Installation:Click "Execute" to start the installation process.
 7)Complete Installation:Once installation finishes, click "Finish" to exit the installer.
+![alt text](image-1.png)
+
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+   ![alt text](image-2.png)
+
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
